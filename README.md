@@ -1,3 +1,9 @@
+
+Una vez dentro de la carpeta del proyecto clonado para abtener las dependencias se debe ejecutar:
+
+npm i 
+
+
 # TrelloAuth
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
