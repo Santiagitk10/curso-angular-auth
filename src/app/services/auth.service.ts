@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
-//en el tsconfig.json puedo configurar los paths para no traerme todo con ../.. 
+//en el tsconfig.json puedo configurar los paths para no traerme todo con ../..  Es como un shortcut propio
 import { environment } from '@environments/environment';
 
 @Injectable({
