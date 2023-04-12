@@ -3,6 +3,14 @@ Una vez dentro de la carpeta del proyecto clonado para abtener las dependencias 
 
 npm i 
 
+Para usar la API se puede usar swagger 
+
+https://fake-trello-api.herokuapp.com/docs
+
+O también hay dos archivos para usar insomnia o postman en la raíz del proyecto
+
+
+
 
 # TrelloAuth
 
