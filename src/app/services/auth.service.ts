@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
+//en el tsconfig.json puedo configurar los paths para no traerme todo con ../.. 
 import { environment } from '@environments/environment';
 
 @Injectable({
